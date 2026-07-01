@@ -1,0 +1,1 @@
+When you approach the port trader, if the island is running low on its speciality goods, it will instantly gain a supply of them relative to the production factor of each individual good. This effect can only occur every 14 in-game days per island.
